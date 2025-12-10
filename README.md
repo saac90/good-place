@@ -1,2 +1,2 @@
-# good-place
+# The Good Place
 el buen lugar
